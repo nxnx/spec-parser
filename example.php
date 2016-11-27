@@ -18,7 +18,7 @@ $container['nxnx.spec-parser'] = function($c) {
     return new SpecParser\Service\Parser($c);
 };
 
-//dDefine entity.
+//Define entity.
 class TitleEntity {
 
     /**
